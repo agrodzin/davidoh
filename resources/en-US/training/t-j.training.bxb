@@ -1,0 +1,10 @@
+train (t-jc7moidjpyoc4vgl2qptg6wy9) {
+  utterance ("[g:funCount] how many (cans)[v:object] are in a (television show)[v:place]")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
+  last-modified (1573856615828)
+}
+train (t-juebdsipao5k8ahytcqnii8uk) {
+  utterance ("[g:funCount] How many (jelly beans)[v:object]?")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgATkM3MwAAA)
+  last-modified (1573856607997)
+}

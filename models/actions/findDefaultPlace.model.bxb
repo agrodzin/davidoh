@@ -1,0 +1,5 @@
+action (findDefaultPlace) {
+  type(Search)
+  description (__DESCRIPTION__)
+  output (place)
+}

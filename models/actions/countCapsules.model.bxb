@@ -1,0 +1,34 @@
+action (countCapsules) {
+  type(Search)
+  description (__DESCRIPTION__)
+   collect {
+    input (object) {
+      type (object)
+      min (Required) max (One)
+      default-init{
+        intent{
+          goal: findDefaultObject
+        }
+      }
+    }
+     input (place) {
+      type (place)
+      min (Required) max (One)
+      default-init{
+        intent{
+          goal: findDefaultPlace
+        }
+      }
+    }
+      input (numCount) {
+      type (numCount)
+      min (Required) max (One)
+      default-init{
+        intent{
+          goal: findDefaultNumberCount
+        }
+      }
+    }
+  }
+  output (numberAndPlace)
+}

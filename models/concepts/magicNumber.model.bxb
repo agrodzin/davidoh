@@ -1,0 +1,3 @@
+integer (magicNumber) {
+  description (__DESCRIPTION__)
+}

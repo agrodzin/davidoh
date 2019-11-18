@@ -1,0 +1,5 @@
+train (t-bg5sj36q2w2bilw443l587qty) {
+  utterance ("[g:funCount] How many (jellybeans)[v:object] are in a (jar)[v:place]?")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
+  last-modified (1573856538327)
+}

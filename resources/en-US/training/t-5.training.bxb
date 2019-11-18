@@ -1,0 +1,10 @@
+train (t-5cdtaimvmc8vzg1rln83mo5lh) {
+  utterance ("[g:funCount] how many (pigs)[v:object] in  a (blanket)[v:place]")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
+  last-modified (1573859534189)
+}
+train (t-5uzpeevcmvtcxu7g19ulqngtq) {
+  utterance ("[g:funCount] how many (groups)[v:object]")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgATkM3MwAAA)
+  last-modified (1573856586186)
+}

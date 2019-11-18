@@ -1,0 +1,16 @@
+capsule-info {
+  display-name (David Oh Magical Count)
+  developer-name (Min(doge) & Ariella & Mike :>)
+  dispatch-name (David Oh)
+  dispatch-aliases{
+    alias (David O)
+  }
+  icon-asset (/images/icon.png)
+  description ("David Oh has a magical number, and it increases everyday. Have fun listening to the count!")
+  search-keywords{
+    keyword (david oh)
+    keyword (barren wasteland)
+    keyword (how many)
+    keyword (count)
+  }
+}

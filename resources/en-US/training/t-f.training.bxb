@@ -1,0 +1,5 @@
+train (t-f5126hh6pdiurrrra5e4c51ei) {
+  utterance ("[g:funCount] how many (friends)[v:object] are in a (friend group)[v:place]")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
+  last-modified (1573856551461)
+}

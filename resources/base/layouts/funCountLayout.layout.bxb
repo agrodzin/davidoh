@@ -1,0 +1,21 @@
+layout-macro-def(funCountLayout) {
+  params {
+    param (numberAndPlace) {
+      type (numberAndPlace)
+      min (Required)
+      max (Many)
+    }
+  }
+  content {
+    section {  // this macro returns a "section"
+      content {
+       paragraph{
+         value{
+         template ("")
+         }
+         style (Detail_M)
+       }
+    }
+  }
+}
+}

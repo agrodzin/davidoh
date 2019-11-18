@@ -1,0 +1,14 @@
+result-view  {
+  match: numberAndPlace(this){
+    min (Required)
+    max (Many)
+    from-output: funCount
+  }
+  render  {
+    layout-macro (funCountLayout){
+      param (numberAndPlace){
+        expression (this)
+      }
+    }
+  }
+}

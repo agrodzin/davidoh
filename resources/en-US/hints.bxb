@@ -1,0 +1,8 @@
+hints {
+  uncategorized {
+    hint ("Ask David Oh to count")
+    hint ("Ask David Oh to count the stars")
+    hint ("Ask David Oh how many")
+    hint ("Ask David Oh how many gummy bears in the jar")
+  }
+}

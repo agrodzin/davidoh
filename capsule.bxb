@@ -1,0 +1,27 @@
+capsule {
+  id (mcvs.davidoh)
+  version (0.1.1)
+  format (3)
+  targets {
+    target (bixby-mobile-en-US)
+  }
+  runtime-flags {
+     use-input-views-for-selection-list-detail
+    concepts-inherit-super-type-features
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+    modern-default-view-behavior
+    no-filtering-with-validation
+  }
+ capsule-imports {
+    import (bixby.audioPlayer) {
+      version (0.3.13)
+      as (audioPlayer)
+    }
+  }
+   store-sections {
+    section (GamesAndFun)
+  }
+  default-action (funCount)
+ }
+  

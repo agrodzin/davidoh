@@ -1,0 +1,5 @@
+action (findDefaultObject) {
+  type(Search)
+  description (__DESCRIPTION__)
+  output (object)
+}

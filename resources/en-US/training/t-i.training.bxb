@@ -1,0 +1,15 @@
+train (t-ig4565wmxke2gib39ayqliplv) {
+  utterance ("[g:funCount] How many (jellybeans)[v:object]")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgATkM3MwAAA)
+  last-modified (1573856505426)
+}
+train (t-ikah85rrcxkqmg5r2bv7q96jq) {
+  utterance ("[g:funCount] how many (life times)[v:object]")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgATkM3MwAAA)
+  last-modified (1573856503610)
+}
+train (t-ixf6kyzo20xihch2lr2sdcr7q) {
+  utterance ("[g:funCount] How many (pigs)[v:object] are in a (blanket)[v:place]")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
+  last-modified (1573856500806)
+}

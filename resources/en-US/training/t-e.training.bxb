@@ -1,0 +1,10 @@
+train (t-e0a8azce7cktus22ba3hyznfa) {
+  utterance ([g:funCount] count)
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgCYDQA=)
+  last-modified (1574099931678)
+}
+train (t-ea0wedq70sdfk2890f4v5fv72) {
+  utterance ("[g:funCount] how many (lights)[v:object] are in a (fun day)[v:place]")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
+  last-modified (1573856544587)
+}

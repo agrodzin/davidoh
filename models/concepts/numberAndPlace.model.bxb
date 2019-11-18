@@ -1,0 +1,19 @@
+structure (numberAndPlace) {
+  description (__DESCRIPTION__)
+  property (magicNumber) {
+    type (magicNumber)
+    min (Required) max (One)
+  }
+   property (object) {
+    type (object)
+    min (Required) max (One)
+  }
+   property (place) {
+    type (place)
+    min (Required) max (One)
+  }
+  property(numCount){
+    type(numCount)
+    min (Required) max (One)
+  }
+}

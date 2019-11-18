@@ -1,0 +1,15 @@
+  
+result-view  {
+  match: numberAndPlace  (this){
+    min (Required)
+    max (Many)
+    from-output: countCapsules
+  }
+  render  {
+    layout-macro (numberAndPlaceLayout){
+      param (numberAndPlace){
+        expression (this)
+      }
+    }
+  }
+}

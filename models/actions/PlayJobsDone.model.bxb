@@ -1,0 +1,31 @@
+
+action (PlayJobsDone) {
+  type (Search)
+  
+  collect {
+    input (jobsdoneToPlay) {
+      description (Create the playlist to play)
+      type (audioPlayer.AudioInfo)
+      min (Required) max (One)
+      default-init {
+        intent {
+          goal: BuildJobsDone
+        } 
+      }    
+      hidden
+    }
+
+    computed-input (jobsdone) {
+      description (By passing in the AudioInfo object to the PlayAudio action, we ask the client to play our sound.)
+      type (audioPlayer.Result)
+      compute {
+        intent {
+          goal: audioPlayer.PlayAudio
+          value: $expr(jobsdoneToPlay)
+        }
+      }
+      hidden
+    }
+  }
+  output (Result)
+}
