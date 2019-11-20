@@ -1,0 +1,20 @@
+train (t-62e4p5pudrskppq6yipxm4mip) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] the (purple marks)[v:Object] on the (whiteboard)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574271007954)
+}
+train (t-66dss146jl57wvl6o1xsw0z1q) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] how many (channels)[v:Object] are on (television)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574200424550)
+}
+train (t-6e3ehmbres8287nplnv6xhm81) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] how many (ounces)[v:Object] are in a (cup)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574201833890)
+}
+train (t-6tbzv74qwokllj3n1fgnqfgtf) {
+  utterance ("[g:PlayJobsDone] count the (stars)[v:Object] in the (sky)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574270642534)
+}

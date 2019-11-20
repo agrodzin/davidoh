@@ -1,5 +1,5 @@
-train (t-p879no427u24qiyx3dopj1hqt) {
-  utterance ("[g:PlayJobsDone] count the (jedi knights)[v:Object] in the (jedi temple)[v:Place]")
+train (t-wysjsq0xphrsq3b9sd64ln2a6) {
+  utterance ("[g:PlayJobsDone] How many (stars)[v:Object] are in the (sky)[v:Place]")
   plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
-  last-modified (1574271339996)
+  last-modified (1574199186034)
 }

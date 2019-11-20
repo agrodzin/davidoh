@@ -1,16 +1,5 @@
 action (BuildJobsDone) {
   type (Search)
   description ()
-  collect {
-    input (JobsDoneAudio) {
-      type (JobsDoneAudio)
-      min (Required) max (Many)
-      default-init {
-        intent {
-          goal: FindJobsDone
-        }
-      }
-    }
-  }
   output (audioPlayer.AudioInfo)
 }

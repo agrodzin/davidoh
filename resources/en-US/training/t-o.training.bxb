@@ -1,0 +1,15 @@
+train (t-o68g2fcfl57z02j0skbnh47yg) {
+  utterance ("[g:PlayJobsDone] count the (laser swords)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgAnIA8oBAA==)
+  last-modified (1574271665932)
+}
+train (t-othb1iizbgwdhtogv84da4vha) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] the (powerful rings)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgBnIYwbJAgA=)
+  last-modified (1574271757012)
+}
+train (t-oyy5q7qphf4zykhhrkf0as3ko) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] how many (words)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgBnIYwbJAgA=)
+  last-modified (1574270116390)
+}

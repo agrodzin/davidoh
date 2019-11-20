@@ -1,0 +1,5 @@
+train (t-zvef7hx7cwc45ca83hwv7ehty) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] the (jedi knights)[v:Object] in the (jedi temple)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574271768770)
+}

@@ -1,5 +1,0 @@
-action (findDefaultNumberCount) {
-  type(Search)
-  description (__DESCRIPTION__)
-  output (numCount)
-}

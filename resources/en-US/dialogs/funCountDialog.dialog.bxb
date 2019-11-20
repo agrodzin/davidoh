@@ -1,9 +1,9 @@
 dialog (Result) {
-  match: numberAndPlace(this){
-    from-output: funCount
+  match: NumberAndPlace(this){
+    from-output: PlayJobsDone
   }
 
-    template ("There are #{value(magicNumber)} #{value(object)} in #{value(place)}") {
-      speech ("<speak><lang xml:lang=\"en-GB\" voice=\"M02\">#{value(numCount)} There are #{value(magicNumber)} #{value(object)} in #{value(place)}</lang></speak>")
+    template ("There are #{value(MagicNumber)} #{value(Object)} in the #{value(Place)}") {
+      speech ("<speak><lang xml:lang=\"en-GB\" voice=\"M02\">#{value(NumCount)}... There are #{value(MagicNumber)} #{value(Object)} in the #{value(Place)}</lang></speak>")
   }
 }

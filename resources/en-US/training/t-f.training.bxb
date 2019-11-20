@@ -1,5 +1,15 @@
-train (t-f5126hh6pdiurrrra5e4c51ei) {
-  utterance ("[g:funCount] how many (friends)[v:object] are in a (friend group)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573856551461)
+train (t-f6a8vt02y39ghwz85zeoxumix) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] the (papers)[v:Object] in a (folder)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574270761157)
+}
+train (t-fazc3bq4b8wtl0i3fwwlz11tu) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] the (laser swords)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgBnIYwbJAgA=)
+  last-modified (1574271701516)
+}
+train (t-fwdsyfqwgr6j4nvae8t307hbu) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] the (plugs)[v:Object] on the (new wall)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574271198466)
 }

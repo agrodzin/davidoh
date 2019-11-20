@@ -1,0 +1,5 @@
+enum (IsQuickCount) {
+  description (__DESCRIPTION__)
+  symbol (Fun)
+  symbol (Simple)
+}

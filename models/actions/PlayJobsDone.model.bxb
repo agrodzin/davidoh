@@ -3,6 +3,34 @@ action (PlayJobsDone) {
   type (Search)
   
   collect {
+    input (NumCount) {
+      type (NumCount)
+      min (Required) max (One)
+      default-init{
+        intent{
+          goal: NumCount
+          value: NumCount("0")
+        }
+      }
+    }
+    input (IsQuickCount){
+      type(IsQuickCount)
+      min (Required) max (One)
+      default-init{
+        intent{
+          goal: IsQuickCount
+          value: IsQuickCount(Fun)
+        }
+      }
+    }
+    input (Object) {
+      type (Object)
+      min (Optional) max (One)
+    }
+     input(Place) {
+      type (Place)
+      min (Optional) max (One)
+    }
     input (jobsdoneToPlay) {
       description (Create the playlist to play)
       type (audioPlayer.AudioInfo)
@@ -27,5 +55,5 @@ action (PlayJobsDone) {
       hidden
     }
   }
-  output (Result)
+  output (NumberAndPlace)
 }

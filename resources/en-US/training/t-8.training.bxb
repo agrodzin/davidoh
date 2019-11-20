@@ -1,10 +1,10 @@
-train (t-85bdcvtqbz70hjah1j75exygi) {
-  utterance ("[g:funCount] How many (book bags)[v:object] are in a (place mat)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573856524234)
+train (t-89a1cs1viil4upd49d2q2uc4e) {
+  utterance ("[g:PlayJobsDone] how many (sharpies)[v:Object] are in the (blue box)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574200520810)
 }
-train (t-8gshpffhq1c0ihhgip71txic6) {
-  utterance ("[g:funCount] how many (life times)[v:object] are in a (life time)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573856531912)
+train (t-8snlsce6t0gi0oqg2klc4rewm) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] how many (toy dogs)[v:Object] are in a (toy chest)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574201017602)
 }

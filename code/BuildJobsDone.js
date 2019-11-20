@@ -1,30 +1,24 @@
-module.exports.function = function buildJobsDone(JobsDoneAudio) {
+module.exports.function = function buildJobsDone() {
   var audioInfo = {};
-
-  audioInfo.audioItem = JobsDoneAudio.map(function (audioItem) {
-    let audioItemStructure = { //required properties of audioItem
-      id: audioItem.id,
-      stream: audioItem.stream,
-      title: audioItem.title,
-      artist:audioItem.artist,
-      albumArtUrl: audioItem.albumArtUrl
-    }
-    //optional properties of audioItem
-    if (audioItem.subtitle) {
-      audioItemStructure.subtitle = audioItem.subtitle
-    }
-    if (audioItem.albumName) {
-      audioItemStructure.albumName = audioItem.albumName
-    }
-    if (audioItem.duration) {
-      audioItemStructure.duration = audioItem.duration
-    }
-    return audioItemStructure
-  });
+  var audioItemStructure = {
+    id: 1,
+    stream: [
+      {
+        url: "https://storage.googleapis.com/hithere123/jobs-done_1.mp3",
+        format: "mp3"
+      }
+    ],
+    title: "Jobs Done",
+    subtitle: "Work Complete",
+    artist: "Peasant",
+    albumName: "Warcraft 3",
+    albumArtUrl: "www.notexist.com"
+  }
+  audioInfo.audioItem = audioItemStructure
 
   audioInfo.category = 'RADIO';
   audioInfo.displayName = 'Jobs Done';
-  audioInfo.doNotWaitForTTS = true;
+  audioInfo.doNotWaitForTTS = false;
 
   return audioInfo;
 }

@@ -1,5 +1,20 @@
-train (t-ct8p2s6cxq49c06ze8ikfgtzp) {
-  utterance ("[g:funCount] how many (capsules)[v:object] are in the (market place)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573865572926)
+train (t-c0oj25583ckk3n5hgcg6pzubn) {
+  utterance ("[g:PlayJobsDone] how many (best friends)[v:Object] are in a (circle)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574200747132)
+}
+train (t-c442b0ppmtwxvq8d90q4imthb) {
+  utterance ("[g:PlayJobsDone] how many (pages)[v:Object] are in a (book)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574199977143)
+}
+train (t-ceojoyzjea34lo1pu6tu6qgny) {
+  utterance ([g:PlayJobsDone] how many)
+  plan (Y2BlkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhFkYGBmYGJiBNAOQBYEwAGYDAA==)
+  last-modified (1574270540653)
+}
+train (t-cvo0nxraphlzjmz9enl3j59k6) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] the (orange juice)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgBnIYwbJAgA=)
+  last-modified (1574271819118)
 }

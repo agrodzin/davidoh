@@ -1,7 +1,7 @@
-layout-macro-def(numberAndPlaceLayout) {
+layout-macro-def(NumberAndPlaceLayout) {
   params {
-    param (numberAndPlace) {
-      type (numberAndPlace)
+    param (NumberAndPlace) {
+      type (NumberAndPlace)
       min (Required)
       max (Many)
     }

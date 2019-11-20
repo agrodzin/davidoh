@@ -1,5 +1,0 @@
-action (FindJobsDone) {
-  type (Search)
-  description ()
-  output (JobsDoneAudio)
-}

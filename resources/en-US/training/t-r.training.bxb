@@ -1,0 +1,15 @@
+train (t-re7b9omycvnxu28b26eoblsd3) {
+  utterance ("[g:PlayJobsDone] count the (potions)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgAnIA8oBAA==)
+  last-modified (1574271629501)
+}
+train (t-rj0fmxv9qrgke7e61ic5tbblq) {
+  utterance ([g:PlayJobsDone] count)
+  plan (Y2BlkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhFkYGBmYGJiBNAOQBYEwAGYDAA==)
+  last-modified (1574271836082)
+}
+train (t-roed4yz32bsotfhex80esap8v) {
+  utterance ("[g:PlayJobsDone] how many (channels)[v:Object] are on (television)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574200133301)
+}

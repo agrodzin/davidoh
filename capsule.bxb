@@ -22,6 +22,6 @@ capsule {
    store-sections {
     section (GamesAndFun)
   }
-  default-action (funCount)
+  default-action (PlayJobsDone)
  }
   

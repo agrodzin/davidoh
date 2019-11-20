@@ -1,0 +1,10 @@
+train (t-asbsger7j7zbe5dzc21iserx0) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] the (computer screens)[v:Object] in the (room)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574270857527)
+}
+train (t-avnjfvvtqcolq3l337pwevmwh) {
+  utterance ("[g:PlayJobsDone] how many (months)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgAnIA8oBAA==)
+  last-modified (1574270146994)
+}

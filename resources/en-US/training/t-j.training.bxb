@@ -1,10 +1,5 @@
-train (t-jc7moidjpyoc4vgl2qptg6wy9) {
-  utterance ("[g:funCount] how many (cans)[v:object] are in a (television show)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573856615828)
-}
-train (t-juebdsipao5k8ahytcqnii8uk) {
-  utterance ("[g:funCount] How many (jelly beans)[v:object]?")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgATkM3MwAAA)
-  last-modified (1573856607997)
+train (t-ji90orzs6cf9md6ax35549aa5) {
+  utterance ("[g:PlayJobsDone] how many (toy dogs)[v:Object] are in a (toy chest)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574200971212)
 }

@@ -1,10 +1,15 @@
-train (t-e0a8azce7cktus22ba3hyznfa) {
-  utterance ([g:funCount] count)
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgCYDQA=)
-  last-modified (1574099931678)
+train (t-e898xl80p70629oqnu9d3qs6k) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] the (spells)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgBnIYwbJAgA=)
+  last-modified (1574271613994)
 }
-train (t-ea0wedq70sdfk2890f4v5fv72) {
-  utterance ("[g:funCount] how many (lights)[v:object] are in a (fun day)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573856544587)
+train (t-eaczqhfr3zxu6vrr7faafvbo6) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] how many")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhFkYGBmYGJiBNAOQBYEwwARkMzMwAAA=)
+  last-modified (1574270592254)
+}
+train (t-ejwq3z3t52abj3bcwurwnnxj7) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] how many (pages)[v:Object] are in a (book)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574200033894)
 }

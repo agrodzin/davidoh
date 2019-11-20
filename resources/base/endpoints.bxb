@@ -1,27 +1,6 @@
 endpoints {
   action-endpoints {
     // Uncomment the lines below and enter the information for actions, inputs, and the appropriate local or remote endpoints
-    action-endpoint (countCapsules) {
-      accepted-inputs (object, place, numCount)
-      // local-endpoint (getNumber.js)
-      local-endpoint (returnNumberCountText.js)
-    }
-    action-endpoint (funCount) {
-      accepted-inputs (numCount, object, place)
-      local-endpoint (returnNumberCountText.js)
-    }
-      action-endpoint (findDefaultObject) {
-      local-endpoint (findDefaultObjectjs.js)
-    }
-    action-endpoint (findDefaultPlace) {
-      local-endpoint (findDefaultPlacejs.js)
-    }
-     action-endpoint (findDefaultNumberCount) {
-      local-endpoint (findDefaultNumberCount.js)
-    }
-    action-endpoint (FindJobsDone) {
-      local-endpoint (findJobsDone.js)
-    }
     action-endpoint (PlayJobsDone) {
       local-endpoint (PlayJobsDone.js)
     }

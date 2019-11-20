@@ -1,5 +1,10 @@
-train (t-l31zwezm7opnb8xh8qngjtypi) {
-  utterance ("[g:funCount] how many (note pads)[v:object] in a (juice)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573858171002)
+train (t-la161dtl5o8w17hvmbei3oyrw) {
+  utterance ("[g:PlayJobsDone] how many (boards)[v:Object] are on a (ship)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574199281815)
+}
+train (t-lsx4u2lv4egiwkx1oxaaa5qcx) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple]")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhFkYGBmYGJiBNAOQBYEwwARkMzMwAAA=)
+  last-modified (1574271876576)
 }

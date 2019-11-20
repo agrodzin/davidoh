@@ -1,0 +1,20 @@
+train (t-di17cu55uxqmoe1hhirosylcl) {
+  utterance ("[g:PlayJobsDone] how many (cups)[v:Object] are in the (cup holder)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574200598162)
+}
+train (t-diq39qabjmfbplvez9kka3l9p) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] how many (stars)[v:Object] are in the (sky)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574199975832)
+}
+train (t-dnnkh0m3d3uryjous2xl2twon) {
+  utterance ("[g:PlayJobsDone] count the (computer screens)[v:Object] in the (room)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574270824469)
+}
+train (t-ds1dpmvkcnehqhrn50049sgbi) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] how many (boards)[v:Object] are on a (ship)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574199779060)
+}

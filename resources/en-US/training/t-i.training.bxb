@@ -1,15 +1,10 @@
-train (t-ig4565wmxke2gib39ayqliplv) {
-  utterance ("[g:funCount] How many (jellybeans)[v:object]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgATkM3MwAAA)
-  last-modified (1573856505426)
+train (t-i55k8m4gqsll5ul6x8t4qz5n3) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] how many (blue shirts)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgBnIYwbJAgA=)
+  last-modified (1574270507334)
 }
-train (t-ikah85rrcxkqmg5r2bv7q96jq) {
-  utterance ("[g:funCount] how many (life times)[v:object]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgATkM3MwAAA)
-  last-modified (1573856503610)
-}
-train (t-ixf6kyzo20xihch2lr2sdcr7q) {
-  utterance ("[g:funCount] How many (pigs)[v:object] are in a (blanket)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573856500806)
+train (t-ip0c1lerh1mcpf1xtkv8a3n6m) {
+  utterance ("[g:PlayJobsDone] count the (plugs)[v:Object] on the (new wall)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574271161244)
 }

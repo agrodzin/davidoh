@@ -1,19 +1,19 @@
-structure (numberAndPlace) {
+structure (NumberAndPlace) {
   description (__DESCRIPTION__)
-  property (magicNumber) {
-    type (magicNumber)
+  property (MagicNumber) {
+    type (MagicNumber)
     min (Required) max (One)
   }
-   property (object) {
-    type (object)
-    min (Required) max (One)
+   property (Object) {
+    type (Object)
+    min (Optional) max (One)
   }
-   property (place) {
-    type (place)
-    min (Required) max (One)
+   property (Place) {
+    type (Place)
+    min (Optional) max (One)
   }
-  property(numCount){
-    type(numCount)
+  property(NumCount){
+    type(NumCount)
     min (Required) max (One)
   }
 }

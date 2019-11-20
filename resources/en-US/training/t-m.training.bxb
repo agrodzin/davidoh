@@ -1,5 +1,5 @@
-train (t-m5pijs2r2bxg8rz4uglj9tql2) {
-  utterance ("[g:funCount] How many (note pads)[v:object] are in a (juice)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573856653769)
+train (t-m4q0cyaq5xuy91xoh7na4f80k) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] how many (cups)[v:Object] are in the (cup holder)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574200648900)
 }

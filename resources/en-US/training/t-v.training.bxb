@@ -1,10 +1,10 @@
-train (t-123exk553723gspias8twrtk7) {
-  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] how many (door knobs)[v:Object]")
+train (t-vkkxn1moe1aj1z8qs9krhvsa0) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] how many (hair colors)[v:Object]")
   plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgBnIYwbJAgA=)
-  last-modified (1574270370323)
+  last-modified (1574270437854)
 }
-train (t-1udrzosm7n91j0xrbewzesijo) {
-  utterance ("[g:PlayJobsDone] how many (words)[v:Object]")
+train (t-vzp9kky1uiuhx6qvc6hw37q4d) {
+  utterance ("[g:PlayJobsDone] how many (hair colors)[v:Object]")
   plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgAnIA8oBAA==)
-  last-modified (1574270052568)
+  last-modified (1574270409927)
 }

@@ -1,5 +1,10 @@
-train (t-9amncm8hbiynuy5knudo59680) {
-  utterance ("[g:funCount] how many (capsules)[v:object] in the (market place)[v:place]")
-  plan (Y2BlkM5NLivWS0ksy0zJz9DLK81NSi1yzEsJyElMTmUQRZFMK81zzi/NK0ETBuqBCAujCOcnZaUmlzAIoQgWgI1lYWBkYGJgBtIMQBYEwgAzkA2WAQA=)
-  last-modified (1573865624510)
+train (t-9qld1nh11obor7krbamh8fstb) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] how many (best friends)[v:Object] are in a (circle)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574201887478)
+}
+train (t-9yjy75k4f08z3khyhse82ysue) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] the (child wizards)[v:Object] in the (hogwarts school)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBmwAPnMEDUA)
+  last-modified (1574271487145)
 }

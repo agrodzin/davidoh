@@ -1,0 +1,15 @@
+train (t-gbml0skjxhal94x76m69q7zxn) {
+  utterance ("[g:PlayJobsDone] count the (tissue papers)[v:Object] in the (tissue box)[v:Place]")
+  plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
+  last-modified (1574271082646)
+}
+train (t-gfri2fzhsrochsb08agz47ugq) {
+  utterance ("[g:PlayJobsDone] (fast count)[v:IsQuickCount:Simple] the (potions)[v:Object]")
+  plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgBnIYwbJAgA=)
+  last-modified (1574271646924)
+}
+train (t-gvnpkobo4fabbmjzizm6z3o9z) {
+  utterance ("[g:PlayJobsDone] (quick count)[v:IsQuickCount:Simple] how many")
+  plan (Y2BlkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhFkYGBmYGJiBNAOQBYEwwARkMzMwAAA=)
+  last-modified (1574270561119)
+}

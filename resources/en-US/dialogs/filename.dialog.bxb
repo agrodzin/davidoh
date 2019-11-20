@@ -1,9 +1,0 @@
-dialog (Result) {
-  match: numberAndPlace(this){
-    from-output: countCapsules
-  }
-    template ("There are  #{value (magicNumber)} #{value (object)} in  #{value (place)}") {
-      speech ("<speak><lang xml:lang=\"en-GB\" voice=\"M02\">There are  #{value (magicNumber)} #{value (object)} in #{value (place)}</lang>.</speak>")
-  }
-  
-}

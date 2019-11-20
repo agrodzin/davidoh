@@ -1,10 +1,10 @@
-train (t-2mxq65w36v3x5jnziokn0jhm5) {
-  utterance ("[g:PlayJobsDone] how many (door knobs)[v:Object]")
+train (t-quvy53qew5er1bhkrg4vmpfx7) {
+  utterance ("[g:PlayJobsDone] count the (powerful rings)[v:Object]")
   plan (Y2BjkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxhYGRgZmBiYGViALAYgGwYRgAnIA8oBAA==)
-  last-modified (1574270338195)
+  last-modified (1574271727416)
 }
-train (t-2si6pydndhu4bo9zshwlv7h0p) {
-  utterance ("[g:PlayJobsDone] count the (purple marks)[v:Object] on the (whiteboard)[v:Place]")
+train (t-qvr50rfbrj8rblyvzz97gvhtc) {
+  utterance ("[g:PlayJobsDone] How many (ounces)[v:Object] are in a (cup)[v:Place]")
   plan (Y2BnkM5NLivWS0ksy0zJz9DzK81NSi1yzEsJyElMTmWQRJEEilV65ScVu+TnpTJIJ2VWJFXqJZamZOaDJFKL9BxBbM+8tHw0fZ7FgaWZydnO+aV5JQyi6PZBhIVRhP2TslKTSxiE0K0HOomNgZGBiYGZgYWBFchmAPIQEBkwA/lgFQA=)
-  last-modified (1574270971324)
+  last-modified (1574199389382)
 }

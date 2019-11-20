@@ -1,12 +1,12 @@
 result-view  {
-  match: numberAndPlace(this){
+  match: NumberAndPlace(this){
     min (Required)
     max (Many)
-    from-output: funCount
+    from-output: PlayJobsDone
   }
   render  {
-    layout-macro (funCountLayout){
-      param (numberAndPlace){
+    layout-macro (FunCountLayout){
+      param (NumberAndPlace){
         expression (this)
       }
     }
